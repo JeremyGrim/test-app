@@ -1,0 +1,116 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-fonts",
+        "scope": null,
+        "escapedName": "cordova-plugin-fonts",
+        "name": "cordova-plugin-fonts",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/grim/Sites/ecklipse-app/appli-ec"
+    ]
+  ],
+  "_from": "cordova-plugin-fonts@latest",
+  "_id": "cordova-plugin-fonts@0.6.5",
+  "_inCache": true,
+  "_location": "/cordova-plugin-fonts",
+  "_nodeVersion": "4.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-fonts-0.6.5.tgz_1476288015504_0.6466284319758415"
+  },
+  "_npmUser": {
+    "name": "eb1",
+    "email": "ebrommers@gmail.com"
+  },
+  "_npmVersion": "2.15.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-fonts",
+    "scope": null,
+    "escapedName": "cordova-plugin-fonts",
+    "name": "cordova-plugin-fonts",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fonts/-/cordova-plugin-fonts-0.6.5.tgz",
+  "_shasum": "3be2b98da521adde8b328fd3491cf6955698e34f",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-fonts",
+  "_where": "/Users/grim/Sites/ecklipse-app/appli-ec",
+  "author": {
+    "name": "Erik Brommers"
+  },
+  "bugs": {
+    "url": "https://github.com/adapt-it/cordova-fonts/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-fonts",
+    "platforms": [
+      "firefoxos",
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Fonts plugin",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "dist": {
+    "shasum": "3be2b98da521adde8b328fd3491cf6955698e34f",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-fonts/-/cordova-plugin-fonts-0.6.5.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "gitHead": "6aeffaf07dec6a4ef9664c4915c11114bab294b4",
+  "homepage": "https://github.com/adapt-it/cordova-fonts",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-firefox",
+    "cordova-windows",
+    "plugin",
+    "fonts"
+  ],
+  "license": "Apache-2.0",
+  "main": "fonts.js",
+  "maintainers": [
+    {
+      "name": "eb1",
+      "email": "ebrommers@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-fonts",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adapt-it/cordova-fonts.git"
+  },
+  "scripts": {
+    "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests",
+    "test": "npm run jshint"
+  },
+  "version": "0.6.5"
+}
